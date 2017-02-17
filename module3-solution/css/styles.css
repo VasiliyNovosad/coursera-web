@@ -7,34 +7,26 @@
     margin-bottom: 0;
     line-height: .75;
 }
-
 #collapsable-nav {
     background-color: white;
+}
+.navbar>.container-fluid, .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7c277a;
 }
-
-.navbar, .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7c277a;
-}
-
 #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.5em;
 }
-
 #nav-list a {
     color: #7c277a;
     text-align: center;
 }
-
 #nav-list hr {
     margin: 2px;
     border-top: 1px solid #7c277a;
 }
-
 .page-header h1 {
     text-align: center;
 }
-
 #home-tiles #chicken-tile, #home-tiles #beef-tile, #home-tiles #sushi-tile {
     position: relative;
     overflow: auto;
@@ -42,7 +34,6 @@
     padding: 10px;
     margin: 10px;
 }
-
 #home-tiles #chicken-title, #home-tiles #beef-title, #home-tiles #sushi-title {
     color: black;
     text-align: center;
