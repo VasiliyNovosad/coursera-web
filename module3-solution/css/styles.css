@@ -37,4 +37,5 @@
 #home-tiles #chicken-title, #home-tiles #beef-title, #home-tiles #sushi-title {
     color: black;
     text-align: center;
+    font-weight: bold;
 }
