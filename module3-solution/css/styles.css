@@ -24,6 +24,10 @@
     margin: 2px;
     border-top: 1px solid #7c277a;
 }
+.page-header {
+    margin: 10px 0;
+    border-bottom: none;
+}
 .page-header h1 {
     text-align: center;
 }
