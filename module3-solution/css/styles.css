@@ -31,7 +31,7 @@
     position: relative;
     overflow: auto;
     background-color: grey;
-    padding: 10px;
+    padding: 15px;
     margin: 10px;
 }
 #home-tiles #chicken-title, #home-tiles #beef-title, #home-tiles #sushi-title {
