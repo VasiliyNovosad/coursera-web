@@ -28,9 +28,6 @@
     margin: 10px 0 10px;
     border-bottom: none;
 }
-.page-header h1 {
-    text-align: center;
-}
 #home-tiles #chicken-tile, #home-tiles #beef-tile, #home-tiles #sushi-tile {
     position: relative;
     overflow: auto;
